@@ -1,7 +1,7 @@
 ### Hi Developers 👋
 
   
-[![Linkedin Badge](https://img.shields.io/badge/-Adwaith-M-Nambiar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adwaith-m-nambiar-756451227/)](https://www.linkedin.com/in/adwaith-m-nambiar-756451227/)
+[![Linkedin Badge](https://img.shields.io/badge/Adwaith-M-Nambiar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adwaith-m-nambiar-756451227/)](https://www.linkedin.com/in/adwaith-m-nambiar-756451227/)
 
 
 I'm
