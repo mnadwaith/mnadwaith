@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Student
 -------
 
-Aspiring third-year Computer Science Engineering student specializing in AI and Robotics. Proficient in C/C++, Java, Python, and front-end technologies. Seeking an internship to gain industry experience and apply technical skills.
+Final-year B.Tech student specializing in Computer Science and Engineering at Vellore Institute of Technology (VIT). Proficient in Python, C/C++, Java, and experienced with web technologies like HTML, CSS, JavaScript, Node.js, and Express.js. Seeking internships in full-stack development or machine learning. Passionate about leveraging technical skills to develop innovative solutions and eager to contribute to dynamic teams in cutting-edge technologies.
 
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [MyPortfolio](http://mnadwaith.github.io/Portfolio/)
