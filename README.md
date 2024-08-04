@@ -7,7 +7,7 @@ Student
 Final-year B.Tech student specializing in Computer Science and Engineering at Vellore Institute of Technology (VIT). Proficient in Python, C/C++, Java, and experienced with web technologies like HTML, CSS, JavaScript, Node.js, and Express.js. Seeking internships in full-stack development or machine learning. Passionate about leveraging technical skills to develop innovative solutions and eager to contribute to dynamic teams in cutting-edge technologies.
 
 * 🌍  I'm based in India
-<!--* 🖥️  See my portfolio at [MyPortfolio](http://mnadwaith.github.io/Portfolio/)-->
+* 🖥️  See my portfolio at [MyPortfolio](http://mnadwaith.github.io/Portfolio/)
 * ✉️  You can contact me at [mnadwaith@gmail.com](mailto:mnadwaith@gmail.com)
 
 <a href="https://www.github.com/mnadwaith" target="_blank" rel="noreferrer"><img
